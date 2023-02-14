@@ -1,1 +1,9 @@
-.
+icon criteria:
+
+56 x 56 pixels
+4 colors (black, white, gray, grey)
+
+sprite criteria:
+
+16 x 96 pixels
+4 colors (black, white, gray, grey)
