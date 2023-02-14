@@ -1,8 +1,8 @@
 # memoryland assets
- 
+
 for asset contributions:
 
-examples are stored here, under /text or /gfx
+examples are here, under /text or /gfx
 
 /text
 
