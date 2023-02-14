@@ -1,9 +1,11 @@
-icon criteria:
+icon criteria: (in /icons)
 
 56 x 56 pixels
 4 colors (black, white, gray, grey)
+(static images)
 
-sprite criteria:
+sprite criteria: (in /sprites)
 
 16 x 96 pixels
 4 colors (black, white, gray, grey)
+(these move)
