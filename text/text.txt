@@ -1,0 +1,11 @@
+text.asm shows up like this,
+scrolling on imput of one a or b presses per line:
+
+this is some
+text something
+might read.
+
+this is some
+other text
+something
+might read.
