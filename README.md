@@ -1,5 +1,7 @@
 # memoryland assets
 
+texts & visual representations of objects.
+
 for asset contributions:
 
 examples are here, under /text or /gfx
