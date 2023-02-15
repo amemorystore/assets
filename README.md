@@ -12,4 +12,4 @@ see text.txt & text.asm
 
 /gfx
 
-see gfx.txt, in /sprites see sprite.png, & in /icons see icon.png
+see gfx.txt, in /sprites see cat.png, & in /icons see pallet.png
