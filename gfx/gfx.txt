@@ -1,11 +1,9 @@
 icon criteria: (in /icons)
 
 56 x 56 pixels
-4 colors (black, white, gray, grey)
-(static images)
+4 colors (see the pallet icon in /icons, pallet.png)
 
 sprite criteria: (in /sprites)
 
 16 x 96 pixels
-4 colors (black, white, gray, grey)
-(these move)
+4 colors (see the pallet icon in /sprites, cat.png)
