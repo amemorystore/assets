@@ -1,6 +1,6 @@
 # memoryland assets
 
-texts & visual representations of objects, faces, & acenes
+texts & visual representations of objects, faces & acenes
 
 for asset contributions:
 
