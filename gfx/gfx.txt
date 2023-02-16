@@ -6,4 +6,4 @@ icon criteria: (in /icons)
 sprite criteria: (in /sprites)
 
 16 x 96 pixels
-4 colors (see the pallet icon in /sprites, cat.png)
+4 colors (check the pallet used in /sprites/cat.png)
