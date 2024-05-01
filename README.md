@@ -1,5 +1,7 @@
 # memoryland assets
 
+game plot:    you get   memorys   &    make  them   forget  stuff
+
 texts & visual representations of objects, faces, & scenes
 
 some examples
