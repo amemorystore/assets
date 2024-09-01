@@ -1,7 +1,4 @@
-# memoryland assets
-
-plot:    you get   memorys   &    make  them   forget  stuff
-
+# memoryland assets::
 texts & visual representations of objects, faces, & scenes
 
 some examples
@@ -23,3 +20,7 @@ see text.txt & text.asm
 /gfx
 
 see gfx.txt, in /sprites see cat.png, & in /icons see pallet.png
+
+----------------------------------------------------------------
+plot::
+get   memorys   &    make  them   forget  & learn  stuff
