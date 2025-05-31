@@ -21,6 +21,14 @@ see text.txt & text.asm
 
 see gfx.txt, in /sprites see cat.png, & in /icons see pallet.png
 
+/fonts
+
+if  you would like  to design a font
+
+/sound
+
+if you    are  interested in  writing  sound
+
 ----------------------------------------------------------------
 plot::
 get   memorys   &    make  them   forget  & learn  stuff
