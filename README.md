@@ -4,8 +4,11 @@ texts & visual representations of objects, faces, & scenes
 some examples
 
 objects: penny, pencil, pocketbook
+.
 faces: smiley face, sad face, brick wall
+.
 places:   forest,  airport, outer space
+.
 scenes: birthday party, thunderstorm, fight
 
 for asset contributions:
