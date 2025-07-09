@@ -1,15 +1,17 @@
 # memoryland assets::
-texts & visual representations of objects, faces, & scenes
+texts & visual representations of objects, faces, scenes  &  events
 
 some examples
 
 objects: penny, pencil, pocketbook
-.
+#.
 faces: smiley face, sad face, brick wall
-.
+#.
 places:   forest,  airport, outer space
-.
-scenes: birthday party, thunderstorm, fight
+#.
+#events: birthday party, thunderstorm, fight
+#.
+scenes: sunset, out the car window
 
 for asset contributions:
 
