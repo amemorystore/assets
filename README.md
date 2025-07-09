@@ -2,15 +2,19 @@
 texts & visual representations of objects, faces, scenes  &  events
 
 some examples
-
+..............................
 objects: penny, pencil, pocketbook
 #.
+....................................
 faces: smiley face, sad face, brick wall
 #.
+....................................
 places:   forest,  airport, outer space
 #.
+.........................................
 #events: birthday party, thunderstorm, fight
 #.
+.............................
 scenes: sunset, out the car window
 
 for asset contributions:
