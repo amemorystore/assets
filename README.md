@@ -12,7 +12,7 @@ faces: smiley face, sad face, brick wall
 places:   forest,  airport, outer space
 #.
 .........................................
-#events: birthday party, thunderstorm, fight
+events: birthday party, thunderstorm, fight
 #.
 .............................
 scenes: sunset, out the car window
